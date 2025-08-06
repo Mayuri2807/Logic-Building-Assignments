@@ -1,7 +1,8 @@
-/*
-196)write a recursive program which display below pattern
+/*1)write a recursive program which display below pattern
 output: * * * * *
 */
+
+/////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 void DisplayR()
