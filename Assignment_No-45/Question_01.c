@@ -1,4 +1,4 @@
-/*1)write a program which accept file name from user and count number of captial character from
+/*1) write a program which accept file name from user and count number of captial character from
 that file.
 
 input:Demo.txt
