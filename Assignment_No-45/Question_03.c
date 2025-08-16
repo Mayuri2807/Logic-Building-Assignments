@@ -1,4 +1,4 @@
-/*3)write a program which accept file name from user and count number of white spaces from
+/*3) write a program which accept file name from user and count number of white spaces from
 that file.
 input:Demo.txt
 output:Number of captial chararcter are 23
